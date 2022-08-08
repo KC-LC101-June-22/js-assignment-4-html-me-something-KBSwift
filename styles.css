@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 0 auto;
+    display: block;
+    background-color: rgb(57, 72, 85);
+    color: aliceblue;
+    max-width: 1024px;
+}
+
+#mainHeading {
+    margin: 0;
+    padding: .5em 0 0;
+    text-align: center;
+    font-size: 10vh;
+    color: red;
+}
+
+#subtitle {
+    text-align: center;
+    margin: 0;
+    padding: 0 0 1em;
+}
+
+/* ul {
+    display: inline-flex;
+    margin-right: 100px auto;
+} */
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    align-content: center;
+}
