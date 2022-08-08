@@ -22,10 +22,10 @@ body {
     padding: 0;
 }
 
-ul {
+/* ul {
     display: inline-flex;
     margin-right: 100px auto;
-}
+} */
 
 .funParagraph {
     color: green;
